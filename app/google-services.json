@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "518478758388",
+    "firebase_url": "https://notesfirebaseexample.firebaseio.com",
+    "project_id": "notesfirebaseexample",
+    "storage_bucket": "notesfirebaseexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518478758388:android:85cbce5d6d8f22e423b9a1",
+        "android_client_info": {
+          "package_name": "com.homeworkshop.notesfirebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518478758388-cqu0imi87vcncn1v7jrtjcbo32q05bec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhzq0kIL13cfsOb44Adg7e6ym88AvJBmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518478758388-cqu0imi87vcncn1v7jrtjcbo32q05bec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
